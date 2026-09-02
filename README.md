@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Demo/Poster.png" alt="WANTED project poster" width="900">
+</p>
+
 # WANTED — Flatmate Compatibility and Accommodation Platform
 
 WANTED is a final-year university web application for discovering potential flatmates and accommodation through questionnaire-based lifestyle compatibility, matching, messaging and listings.
