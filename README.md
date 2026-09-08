@@ -14,7 +14,7 @@ Supporting portfolio materials are included in the [Demo](Demo/) folder:
 
 | Material | Path |
 | --- | --- |
-| Full demo video | [Demo/FullDemo.mov](Demo/FullDemo.mov) |
+| Full demo video | [Demo/FullDemo.mp4](Demo/FullDemo.mp4) |
 | Screenshots | [Demo/Screenshots](Demo/Screenshots/) |
 | Activity diagrams | [Demo/Activity Diagrams](<Demo/Activity Diagrams/>) |
 | Poster | [Demo/Poster.png](Demo/Poster.png) |

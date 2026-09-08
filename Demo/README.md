@@ -6,7 +6,7 @@ This folder contains portfolio evidence for the completed original WANTED univer
 
 | File or folder | Description |
 | --- | --- |
-| [FullDemo.mov](FullDemo.mov) | Full walkthrough/demo video. |
+| [FullDemo.mp4](FullDemo.mp4) | Full walkthrough/demo video. |
 | [Screenshots](Screenshots/) | UI screenshots from the implemented Laravel application. |
 | [Activity Diagrams](<Activity Diagrams/>) | Activity diagrams for key project workflows. |
 | [Poster.png](Poster.png) | Project poster. |
